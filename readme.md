@@ -33,7 +33,7 @@ This mod requires [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mo
 
 **Uploading Audio Files**
 
-Run `/audioplayer upload` and follow the instructions.
+Run `/audioplayer upload <url>` and follow the instructions.
 
 **Putting Custom Audio on a Music Disc**
 
